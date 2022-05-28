@@ -1,0 +1,23 @@
+.cabecalho-vestuario{
+    font-size: 22px;
+    padding: 10px;
+    background-color: #BB86FC;
+    color: #fff ;
+   
+}
+
+
+.dados-tabela{
+    font-size: 20px;
+    padding: 10px;
+    background-color: #424250;
+    color: #fff;
+}
+
+
+.cabecalho-casa{
+    font-size: 22px;
+    background-color: #00C4B4;
+    padding: 10px;
+    color: #fff;
+}
